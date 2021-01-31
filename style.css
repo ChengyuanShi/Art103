@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento|Underdog&display=swap');
+
+body{
+  background-color:black
+ ;
+  font-family: 'Underdog', cursive;
+}
+body{
+  text-align: center;
+}
+h1{
+  font-size: 300%;
+  color: orange;
+
+
+}
+h2{font-size: 100%;
+  color: grey;
+}
+
+h4{
+  font-size: 100%;
+  color: orange;
+
+
+}
+h5{font-size: 50%;
+  color: grey;
+}
+
+h3{
+  color:white;
+  font-family: 'Sacramento', cursive;
+}
+p{
+  font-size: 18pt;
+  color: white;
+  font-weight:300;
+}
+p1{
+  font-size:10pt;
+  color: white;
+  font-weight:300;
+}
+
+.div1{text-align:right}
+ 
+a{
+  color:  lightyellow;
+  text-decoration: none;
+}
+a:hover{
+  color:orange;
+  background-color: lightyellow;
+}
+a:active{
+  color:lightyellow;
+  }
